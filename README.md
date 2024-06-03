@@ -4,4 +4,9 @@ Actual: no warning
 
 Test 2: push direct to main with branch protection required.
 Expect: fail
-Actual: TBD
+Actual: fail
+
+````remote: Bypassed rule violations for refs/heads/main:
+remote: 
+remote: - Changes must be made through a pull request.```
+
