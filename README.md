@@ -10,3 +10,4 @@ Actual: fail
 remote: 
 remote: - Changes must be made through a pull request.```
 
+Test 3: an outside developer forks and submits a pull request. This is a precondition to other tests that rely on having an account that is not an owner or an admin.
