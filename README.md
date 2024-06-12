@@ -1,3 +1,5 @@
+test bypass for bot-user who is owner
+
 Test 1: push direct to main with branch protection advisory. 
 Expect: get a warning
 Actual: no warning
