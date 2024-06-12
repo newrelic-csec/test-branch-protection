@@ -1,5 +1,10 @@
 Test 2
 test bypass for bot-user who is owner
+i
+
+
+
+TEST GH CLI
 
 Test 1: push direct to main with branch protection advisory. 
 Expect: get a warning
