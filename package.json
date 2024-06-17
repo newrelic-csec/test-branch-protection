@@ -1,0 +1,15 @@
+{
+  "name": "test-branch-protection",
+  "version": "1.0.0",
+  "description": "Test 2 test bypass for bot-user who is owner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flarum": "^0.1.0-beta.16",
+    "stringify": "^5.2.0"
+  }
+}
